@@ -1,4 +1,6 @@
 # UmemiyaOraja
+* 将来的になにか貢献したい
+* まずソース読めるようになりたい
 
 # beatoraja
 Codename beatoraja is a Cross-platform rhythm game based on Java and libGDX.
